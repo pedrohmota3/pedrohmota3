@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá, eu sou o Pedro Henrique da Mota! 👋
 
-<!--
-**pedrohmota3/pedrohmota3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
 
-Here are some ideas to get you started:
+- 👷 Engenheiro Civil | Estudante de Engenharia de Software
+- 📍 Nascido em Brasília, 28 anos
+- 👨‍🏫 Professor de Matemática
+- 💡 Apaixonado por aprender, ensinar e enfrentar novos desafios
+- 🚀 Sempre em busca de aprimoramento contínuo e expansão de conhecimentos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades & Tecnologias
+
+- **AutoCAD** – Projetos técnicos e detalhamento
+- **Revit** – Modelagem de informações da construção (BIM)
+- **Python** – Desenvolvimento e automação
+
+## Vamos nos conectar!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-da-mota-765174140)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_pedroh3)
+
+---
+
+**Curiosidade:**  
+Tenho sólida formação em engenharia, sou fascinado por tecnologia e educação, e estou sempre aberto a novos projetos e colaborações. Se quiser conversar sobre engenharia, programação ou ensino, não hesite em me chamar!
