@@ -2,8 +2,8 @@
 
 ## Sobre mim
 
-- 👷 Engenheiro Civil | Estudante de Engenharia de Software
-- 📍 Nascido em Brasília, 28 anos
+- 👷 Engenheiro Civil e de Segurança do Trabalho| Estudante de Análise e Desenvolvimento de Sistemas
+- 📍 Nascido em Brasília, 29 anos
 - 👨‍🏫 Professor de Matemática
 - 💡 Apaixonado por aprender, ensinar e enfrentar novos desafios
 - 🚀 Sempre em busca de aprimoramento contínuo e expansão de conhecimentos
@@ -13,6 +13,7 @@
 - **AutoCAD** – Projetos técnicos e detalhamento
 - **Revit** – Modelagem de informações da construção (BIM)
 - **Python** – Desenvolvimento e automação
+- **MySQL** - Banco de Dados
 
 ## Vamos nos conectar!
 
